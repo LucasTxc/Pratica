@@ -1,0 +1,38 @@
+Comandos basicos de Git
+
+-> Para salvar as coisas sempre usa o comando git config -- 
+	git config --global user.name "Lucas Teixeira"
+
+	git config --global user.email "teixieradecarvalhol@gmail.com"
+
+-> Esse comando git init -> Cria um repositorio novo
+
+Branch -> Versões diferentes do meu sistema(Master)
+
+README ->
+
+Commit -> E uma forma de enviar as modificação que estamos realiazando no projeto. Ele vem 
+atrelado a um comentário.
+
+git status -> é usado para verificar as alterações realizadas, usando mais esse comando 
+git add -A ele adicina no repositório
+
+Para subir o aquivo para o github, usamos esse comando git commit -m
+
+Usando o git log conseguiremos ver todos os commits tudo que foi feito 
+
+Como remover 
+
+gir 
+
+Como alterar pastas no Git Bash
+Como Bob mencionou, você pode alterar diretórios com cd:
+
+cd /c/project 
+Se você tiver um caminho do Windows com barras invertidas, coloque o caminho entre aspas simples:
+
+cd 'C:\project' 
+Ou aspas duplas:
+
+cd 'C:\project' 
+

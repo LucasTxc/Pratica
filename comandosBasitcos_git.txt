@@ -42,7 +42,7 @@ cd 'C:\project'
 Camo alterar os arquivos do GIT.
 1º Podemos está fazendo o git log para veificar tudo que está sendo feito.
 2° O branch irá listar paranos as alterações que cada pessoa fez
-3º git add -A adicina dotos os aquivos novos 
+3º git add -A adicina dotos os aquivos novos // Você consegue adicionar somente o arquiso que criou usando git add index.html
 4º git commit am, tem a mesma funcionalidade do git add -A
 5º git reset, -soft, -mixed e o hard.
 

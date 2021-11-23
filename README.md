@@ -5,3 +5,5 @@ Vip
 Praticando
 
 Estamos em busca mudança 
+
+Alterando o Readme

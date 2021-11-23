@@ -17,7 +17,9 @@ atrelado a um comentário.
 git status -> é usado para verificar as alterações realizadas, usando mais esse comando 
 git add -A ele adicina no repositório
 
-Para subir o aquivo para o github, usamos esse comando git commit -m
+Para subir o aquivo para o github, usamos esse comando git commit -m, ele realiza somente as
+modificações que foram alteradas não o projeto todo.
+	.Usando o comandao git add -A, ele confirmará a alteração feita no documento.
 
 Usando o git log conseguiremos ver todos os commits tudo que foi feito 
 
@@ -35,4 +37,13 @@ cd 'C:\project'
 Ou aspas duplas:
 
 cd 'C:\project' 
+
+-__________________________________________________________________
+Camo alterar os arquivos do GIT.
+1º Podemos está fazendo o git log para veificar tudo que está sendo feito.
+2° O branch irá listar paranos as alterações que cada pessoa fez
+3º git add -A adicina dotos os aquivos novos 
+4º git commit am, tem a mesma funcionalidade do git add -A
+5º git reset, -soft, -mixed e o hard.
+
 

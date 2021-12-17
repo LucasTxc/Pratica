@@ -1,4 +1,4 @@
-Comandos basicos de Git
+giroComandos basicos de Git
 
 -> Para salvar as coisas sempre usa o comando git config -- 
 	git config --global user.name "Lucas Teixeira"
@@ -45,5 +45,7 @@ Camo alterar os arquivos do GIT.
 3º git add -A adicina dotos os aquivos novos // Você consegue adicionar somente o arquiso que criou usando git add index.html
 4º git commit am, tem a mesma funcionalidade do git add -A
 5º git reset, -soft, -mixed e o hard.
+
+
 
 
